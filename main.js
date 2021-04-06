@@ -18,7 +18,7 @@
      
      
     client.once('ready', () => {
-        console.log('Codelyon is online!');
+        console.log('Bot is online!');
     });
 
   
@@ -52,4 +52,4 @@
 
 
 
-client.login('ODE4ODM4ODU5MzY5OTM4OTY0.YEd5HQ._kFNxiFoCcNu1PPmy6v9dnXOXaI');
+client.login('1234');
